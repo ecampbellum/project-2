@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Project 2</title>
+    <!-- Meta data and information about your site, not visible to visitors. -->
+  </head>
+
+  <body>
+    <header>
+        <nav>
+            <!-- Site Links -->
+          </nav>
+          
+          
+          <!-- For example... -->
+          <nav id="main-menu">
+            <a href="#">About</a>
+            <a href="#">Facts</a>
+            <a href="#">Contact</a>
+       
+          </nav>
+    </header>
+    <main>
+        <div id="about">
+            
+            <!-- Content -->
+          </div>
+          
+          <div id="facts">
+            <!-- Different Content -->
+          </div><div id="contact">
+          
+            <img src="./images/dogs-in-field.jpeg" alt="An image of dogs laying in a field while the sun sets" title="Dogs in a Sunlit Field" width="1000" height="500" />
+            <img src="./images/dogs-in-field.jpeg" alt="An image of dogs laying in a field while the sun sets" title="Dogs in a Sunlit Field" width="1000" height="500" />
+
+          </div>
+    </main>
+    <footer>
+    </footer>
+    <!-- “My Way-Cool Awesome Site!” contents, visible to visitors. -->
+  </body>
+</html>
